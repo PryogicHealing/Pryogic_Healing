@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pryogic_Healing/static/css/main.f98daf94.css",
+    "main.js": "/Pryogic_Healing/static/js/main.c0d7fda9.js",
+    "index.html": "/Pryogic_Healing/index.html",
+    "main.f98daf94.css.map": "/Pryogic_Healing/static/css/main.f98daf94.css.map",
+    "main.c0d7fda9.js.map": "/Pryogic_Healing/static/js/main.c0d7fda9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98daf94.css",
+    "static/js/main.c0d7fda9.js"
+  ]
+}
