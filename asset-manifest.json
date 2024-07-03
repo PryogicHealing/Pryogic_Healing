@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pryogic_Healing/static/css/main.bf205876.css",
+    "main.css": "/Pryogic_Healing/static/css/main.a8d3bc47.css",
     "main.js": "/Pryogic_Healing/static/js/main.b21c1a56.js",
     "index.html": "/Pryogic_Healing/index.html",
-    "main.bf205876.css.map": "/Pryogic_Healing/static/css/main.bf205876.css.map",
+    "main.a8d3bc47.css.map": "/Pryogic_Healing/static/css/main.a8d3bc47.css.map",
     "main.b21c1a56.js.map": "/Pryogic_Healing/static/js/main.b21c1a56.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf205876.css",
+    "static/css/main.a8d3bc47.css",
     "static/js/main.b21c1a56.js"
   ]
 }
