@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Pryogic_Healing/static/css/main.a8d3bc47.css",
-    "main.js": "/Pryogic_Healing/static/js/main.b21c1a56.js",
+    "main.css": "/Pryogic_Healing/static/css/main.e0a32ec8.css",
+    "main.js": "/Pryogic_Healing/static/js/main.8b5d108c.js",
+    "reactPlayerPreview.js": "/Pryogic_Healing/static/js/reactPlayerPreview.7ba4b900.chunk.js",
     "index.html": "/Pryogic_Healing/index.html",
-    "main.a8d3bc47.css.map": "/Pryogic_Healing/static/css/main.a8d3bc47.css.map",
-    "main.b21c1a56.js.map": "/Pryogic_Healing/static/js/main.b21c1a56.js.map"
+    "main.e0a32ec8.css.map": "/Pryogic_Healing/static/css/main.e0a32ec8.css.map",
+    "main.8b5d108c.js.map": "/Pryogic_Healing/static/js/main.8b5d108c.js.map",
+    "reactPlayerPreview.7ba4b900.chunk.js.map": "/Pryogic_Healing/static/js/reactPlayerPreview.7ba4b900.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d3bc47.css",
-    "static/js/main.b21c1a56.js"
+    "static/css/main.e0a32ec8.css",
+    "static/js/main.8b5d108c.js"
   ]
 }
